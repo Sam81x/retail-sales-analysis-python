@@ -1,28 +1,28 @@
-# Retail Sales Analysis (Python)
+# Retail Sales Analysis – Python
 
-## Overview
-End-to-end data analysis project using Python to clean, analyze, and visualize retail sales data.
+## Business Objective
+Analyze retail sales data to identify revenue trends, top-performing products, and seasonal patterns to support business decision-making.
 
-## Objectives
-- Identify top-performing products
-- Analyze seasonal trends
-- Calculate revenue KPIs
+## Dataset
+The dataset contains transaction-level sales data including order date, product category, quantity sold, and revenue.
 
-## Tools
+## Tools Used
 - Python
-- pandas, numpy, matplotlib, seaborn
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
-## Key Skills Demonstrated
-- Data cleaning
-- Exploratory Data Analysis
-- KPI calculation
-- Visualization
+## Key Analysis Performed
+- Data cleaning and preprocessing
+- Revenue and quantity analysis by category
+- Monthly sales trend analysis
+- Visualization of top products and sales patterns
 
-## Files
-- retail_sales_analysis.ipynb
-- data/retail_sales.csv
-- visuals/
+## Key Insights
+- Electronics category generates the highest revenue.
+- Sales peak during mid-year months, indicating seasonal demand.
+- A small number of products contribute to a large portion of total revenue.
 
-## Author
-Mohammadreza Moheimani  
-https://github.com/Sam81x
+## Visualization Preview
+![Revenue Trend](screenshots/revenue_trends.png)
