@@ -1,0 +1,11 @@
+order_id,order_date,product,category,quantity,price,revenue
+1,2025-01-05,Phone,Electronics,2,700,1400
+2,2025-01-06,Laptop,Electronics,1,1200,1200
+3,2025-02-10,Headphones,Electronics,3,150,450
+4,2025-02-15,Phone,Electronics,1,700,700
+5,2025-03-05,Monitor,Electronics,2,300,600
+6,2025-03-10,Shirt,Clothing,5,40,200
+7,2025-04-01,Shoes,Clothing,2,80,160
+8,2025-04-15,Book,Books,10,20,200
+9,2025-05-01,Notebook,Books,15,5,75
+10,2025-05-10,Backpack,Accessories,3,50,150
