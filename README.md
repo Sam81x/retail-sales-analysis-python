@@ -28,5 +28,5 @@ The dataset contains transaction-level sales data including order date, product 
 ![Revenue Trend](screenshots/revenue_trends.png)
 
 ### Category Performance
-![Category Revenue](screenshots/category_revenue.png)
+![Category Revenue](screenshots/Category_revenue.png)
 
